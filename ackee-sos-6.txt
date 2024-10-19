@@ -1,0 +1,17 @@
+->solana-keygen new -o ackee-sos-6.json
+Generating a new keypair
+
+For added security, enter a BIP39 passphrase
+
+NOTE! This passphrase improves security of the recovery seed phrase NOT the
+keypair file itself, which is stored as insecure plain text
+
+BIP39 Passphrase (empty for none):
+
+Wrote new keypair to ackee-sos-6.json
+===================================================================
+pubkey: CpySB7kHctdj65QRRjMf9ak92eKTgzV5GCjnxXakMia
+===================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+host leg entire whip skill trip switch bacon trade relief room hole
+===================================================================
